@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="greeting">Hello there,\nWelcome back</string>
+    <string name="fgPassword">Forgot your password?</string>
+    <string name="tip1">Por favor cuidar el agua porque se va a acabar y ya valimos</string>
+    <string name="tip2">Por favor cuidar al perro porque se lo  roban</string>
+    <string name="singin">Sing In</string>
+</resources>
